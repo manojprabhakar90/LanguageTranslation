@@ -22,4 +22,4 @@ We will use approximately 100,000 records for this modelling exercise
 
 # Model:
 
-The idea behind this project was to leverage RNN/LSTM and GRU to do Translation from English to French. This can be leveraged to other languages such as German/Spanish or any other languages. "
+The idea behind this project was to leverage RNN/LSTM and Transformers to do Translation from English to French. This can be leveraged to other languages such as German/Spanish or any other languages. "
