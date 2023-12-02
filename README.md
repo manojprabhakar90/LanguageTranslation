@@ -18,7 +18,7 @@ The data has been published at kaggle. https://www.kaggle.com/datasets/dhruvilda
 
 There are 22,520,736 translated sequences from English to French.
 
-We will use approximately 1,000,000 records for this modelling exercise
+We will use approximately 100,000 records for this modelling exercise
 
 # Model:
 
